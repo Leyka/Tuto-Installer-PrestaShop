@@ -47,7 +47,7 @@ Une page web de MAMP se lance automatiquement. C'est à partir de cette page qu'
 ![](images/new_db.png)
 
 #### 2. Création de la boutique 
-Avant dernière étape! On crée notre boutique ! 
+        Avant dernière étape! On crée notre boutique ! 
 
 * On revient sur la page web de `MAMP`
 * Dans le menu en haut à gauche du site, cliquer sur : **Mon site web**
