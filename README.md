@@ -65,7 +65,7 @@ Une page web de MAMP se lance automatiquement. C'est à partir de cette page qu'
     * Pour administrer la boutique: http://localhost:8888/prestashop/admin
     * Pour visiter la boutique: http://localhost:8888/prestashop/
 
-### 3. Suppresion du dossier d'installation 
+### 3. Suppression du dossier d'installation 
     Dernière étape! Pour des raisons de sécurité, PrestaShop ne vous laissera pas administrer votre boutique 
     tant que vous n'aviez pas supprimé le dossier d'installation de PrestaShop. 
 * À partir du `Finder`, ouvrir le dossier `prestashop` qui se trouve dans `Application\MAMP\htdocs`
