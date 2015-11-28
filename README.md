@@ -30,7 +30,7 @@ Avant de commencer, s'assurer d'avoir téléchargé :
     Pour cette étape, on va tout faire à partir du navigateur (Safari, Chrome, Firefox, etc.)
 
 1. Ouvrir l'application `MAMP`
-2. Cliquer sur le bouton : Ouvrir la plage WebStart 
+2. Cliquer sur le bouton : **Ouvrir la plage WebStart**
 
 Une page web de MAMP se lance automatiquement. C'est à partir de cette page qu'on va pouvoir accéder à PrestaShop.  
 
@@ -74,9 +74,10 @@ Avant dernière étape! On crée notre boutique !
 ![](images/install_folder.png)
 
 * Et voilà ! Maintenant on revient sur notre panneau d'administration (http://localhost:8888/prestashop/admin)
-* Si tout a bien fonctionné, on doit voir cette page: 
+* Cette page de connexion signifie que tout a bien été installé: 
 ![](images/login.png)
-* Il ne reste plus qu'à se connecter ! :bowtie:
+
+Il ne reste plus qu'à se connecter ! :bowtie:
     
 
 
